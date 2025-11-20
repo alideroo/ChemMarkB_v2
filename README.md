@@ -10,7 +10,7 @@ conda env create -f environment.yaml
 ## Download and install this package
 
 ```
-git clone https://github.com/alideroo/ChemMarkB_v1
+git clone https://github.com/alideroo/ChemMarkB_v2
 cd # ChemMarkB
 conda activate chemmarkb
 pip install -e .
